@@ -30,7 +30,7 @@ public class insertionSort
                 }
                 System.out.println("printing completed");
                 j--;
-                System.out.println("j--  " + arr[j]) ;
+                System.out.println("j--  " + arr[j] + j) ;
             }
             System.out.println("Iteration completed");
         }
